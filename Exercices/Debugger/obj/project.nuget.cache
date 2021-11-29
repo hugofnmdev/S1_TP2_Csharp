@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5OG2WLvW2bZc+PpRQNTfMp3gky8sJLW68mCj5tZsktRReYHViaYCgeZEiV/8xoANJNd2BVKhV1wNkNLs+WKIsA==",
+  "success": true,
+  "projectFilePath": "/home/hugo.meleiro/afs/EPITA/TPs/C#/tp2-hugo.meleiro/Exercices/Debugger/Debugger.csproj",
+  "expectedPackageFiles": [
+    "/home/hugo.meleiro/.nuget/packages/microsoft.netcore.app/2.2.0/microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "/home/hugo.meleiro/.nuget/packages/microsoft.netcore.dotnetapphost/2.2.0/microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "/home/hugo.meleiro/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.2.0/microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "/home/hugo.meleiro/.nuget/packages/microsoft.netcore.dotnethostresolver/2.2.0/microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "/home/hugo.meleiro/.nuget/packages/microsoft.netcore.platforms/2.2.0/microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "/home/hugo.meleiro/.nuget/packages/microsoft.netcore.targets/2.0.0/microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "/home/hugo.meleiro/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
