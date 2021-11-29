@@ -17,14 +17,14 @@
           "/home/hugo.meleiro/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
-            "targetAlias": "netcoreapp2.2",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -35,16 +35,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
-          "targetAlias": "netcoreapp2.2",
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            }
-          },
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -55,6 +47,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "/nix/store/6bzslqa59v94hh1nf7sszrsrzc9g0x99-dotnet-sdk-5.0.202/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
