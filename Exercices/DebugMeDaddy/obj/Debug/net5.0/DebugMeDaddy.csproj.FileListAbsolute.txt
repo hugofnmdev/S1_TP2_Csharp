@@ -1,0 +1,11 @@
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp2-hugo.meleiro/Exercices/DebugMeDaddy/bin/Debug/net5.0/DebugMeDaddy
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp2-hugo.meleiro/Exercices/DebugMeDaddy/bin/Debug/net5.0/DebugMeDaddy.dll
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp2-hugo.meleiro/Exercices/DebugMeDaddy/bin/Debug/net5.0/DebugMeDaddy.pdb
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp2-hugo.meleiro/Exercices/DebugMeDaddy/obj/Debug/net5.0/DebugMeDaddy.csprojAssemblyReference.cache
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp2-hugo.meleiro/Exercices/DebugMeDaddy/obj/Debug/net5.0/DebugMeDaddy.GeneratedMSBuildEditorConfig.editorconfig
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp2-hugo.meleiro/Exercices/DebugMeDaddy/obj/Debug/net5.0/DebugMeDaddy.AssemblyInfoInputs.cache
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp2-hugo.meleiro/Exercices/DebugMeDaddy/obj/Debug/net5.0/DebugMeDaddy.AssemblyInfo.cs
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp2-hugo.meleiro/Exercices/DebugMeDaddy/obj/Debug/net5.0/DebugMeDaddy.csproj.CoreCompileInputs.cache
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp2-hugo.meleiro/Exercices/DebugMeDaddy/obj/Debug/net5.0/DebugMeDaddy.dll
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp2-hugo.meleiro/Exercices/DebugMeDaddy/obj/Debug/net5.0/ref/DebugMeDaddy.dll
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp2-hugo.meleiro/Exercices/DebugMeDaddy/obj/Debug/net5.0/DebugMeDaddy.pdb
