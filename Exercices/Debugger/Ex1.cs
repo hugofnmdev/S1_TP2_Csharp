@@ -10,8 +10,8 @@ namespace Debugger
 			int div = 42;
 			while (!stop) 
 			{
-				bool isDivisor = Misc.IsDivisorOf (666, 42);
-				stop &= isDivisor;
+				bool isDivisor = Misc.IsDivisorOf (666, div);
+				stop = isDivisor;
 				++div;
 			}
 			return --div;

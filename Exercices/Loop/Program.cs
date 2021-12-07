@@ -8,7 +8,7 @@ namespace Exercice
     {
         static void Main(string[] args)
         {
-            Loop.PrintNaturals(5);
+            Console.WriteLine(Loop.Abs(-19238));
             // Leave it empty for the last push, use it to call and test your functions
         }
         // you can test your functions here
